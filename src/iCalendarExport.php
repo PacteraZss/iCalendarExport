@@ -2,7 +2,7 @@
 /**
  * iCalendarExport
  */
-namespace iCalendarExport;
+namespace pacteraZss\icalendarExport;
 
 class iCalendarExport{
 

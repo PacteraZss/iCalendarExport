@@ -1,7 +1,7 @@
 # iCalendarExport
 
 ## 使用方法：
-- 1.composer require PacteraZss/iCalendarExport
+- 1.composer require pactera_zss/icalendar_export
 - 2.初始化 $iCalendarExport = $new \iCalendarExport($allUser, $allTypes);
 - 3.执行导出下载 $iCalendarExport->iCalendarExport($userEmail, $scheduleList);
 

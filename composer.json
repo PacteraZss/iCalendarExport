@@ -1,0 +1,16 @@
+{
+    "name": "pactera_zss/icalendar_export",
+    "authors": [
+        {
+            "name": "Zhouss",
+            "email": "shusen.zhou1@pactera.com"
+        }
+    ],
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "pacteraZss\\icalendarExport\\": "src/"
+        }
+    }
+}
